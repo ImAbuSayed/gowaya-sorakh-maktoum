@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Gowaya Sorakh Maktoum
+
+This log tracks the cryptographic history and versioning for the song **Gowaya Sorakh Maktoum** (gowaya-sorakh-maktoum).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T21:55:11.751347 | `v1` | `8613d8c1b07fd4f00233186af7ca37685f452de75f2f887713702467a2d121fc` | `8964913e102f01b4afa064180fbdee39c249ac7e830a670fd9dff8ccef7f01bf` | `2026-05-08_gowaya-sorakh-maktoum-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
